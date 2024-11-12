@@ -9,6 +9,8 @@ int main() {
 
 We will now look at the `int main()` bit.
 
+A _**Function**_ is a collection of statements which can be reused.
+
 This is the declaration of the `main` function, when you run your compiled program, it will start executing the `main` function.
 
 We specify here that the `main` function has the _return type_ `int`. This means that it returns an integer to wherever it was called from. Inside the brackets we may place any parameters required by the function, allowing us to pass data in, although the process for this is slightly different with the `main` function in particular, so lets look at a different example:
